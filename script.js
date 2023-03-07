@@ -7,7 +7,7 @@ var imgWidth = 120;
 var imgHeight = 170;
 
 
-var bgMusicURL = 'https://api.soundcloud.com/tracks/143041228/stream?client_id=587aa2d384f7333a886010d5f52f302a';
+var bgMusicURL = 'http://codeskulptor-demos.commondatastorage.googleapis.com/GalaxyInvaders/theme_01.mp3';//'https://api.soundcloud.com/tracks/143041228/stream?client_id=587aa2d384f7333a886010d5f52f302a';
 var bgMusicControls = true;
 
 
